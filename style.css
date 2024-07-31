@@ -1,5 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&display=swap');
 li{
     display: inline;/*deixa a lista na horizontal*/
     padding: 0px 5px 10px 5px;
     float: right;
+}
+
+a{
+    font
 }

@@ -4,3 +4,9 @@ li{
     padding: 0px 5px 10px 5px;
     float: right;
 }
+
+a {
+    font-family: arial;
+    color: #000;
+    text-decoration: none;/*para tirar o sublinhado dos links*/
+}
